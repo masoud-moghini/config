@@ -1,3 +1,6 @@
+spring:
+  config:
+    name: product-composite
 product:
   service:
     url: something
