@@ -3,7 +3,7 @@ spring:
     name: product-composite
 product:
   service:
-    url: something
+    url: http://product:7070
 
 server:
   port: 9090
